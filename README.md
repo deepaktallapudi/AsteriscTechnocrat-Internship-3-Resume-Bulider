@@ -31,3 +31,5 @@ Once the CV/Resume is complete, users can download it in various formats, such a
 The downloadable file can then be shared with employers or stored for future use.
 
 * This repository contains all the necessary code and assets for our Online CV/Resume Builder application. It includes HTML, CSS, JavaScript, backend scripts, and any other files required to run the application smoothly.
+* ![Screenshot 2023-07-25 114457](https://github.com/deepaktallapudi/AsteriscTechnocrat-Internship-3-Resume-Bulider/assets/103422044/a2025ca2-f30f-4e5f-b66c-a50fa264192b)
+
