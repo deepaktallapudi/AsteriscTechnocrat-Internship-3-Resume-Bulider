@@ -33,3 +33,4 @@ The downloadable file can then be shared with employers or stored for future use
 * This repository contains all the necessary code and assets for our Online CV/Resume Builder application. It includes HTML, CSS, JavaScript, backend scripts, and any other files required to run the application smoothly.
 * ![Screenshot 2023-07-25 114457](https://github.com/deepaktallapudi/AsteriscTechnocrat-Internship-3-Resume-Bulider/assets/103422044/a2025ca2-f30f-4e5f-b66c-a50fa264192b)
 
+Output : https://www.linkedin.com/posts/deepak-tallapudi-18916b24b_webdeveloper-javascript-css-activity-7089493524768833536-J9ul?utm_source=share&utm_medium=member_desktop
